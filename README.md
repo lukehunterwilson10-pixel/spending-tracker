@@ -10,7 +10,7 @@ into a category, and charts where the money went.
 - Draws a bar chart of the results
 
 ## What I found
-(Your one-sentence finding goes here, with a number in it.)
+Categorizing your spending habits can help you focus your saving techniques in the correct spots
 
 ## Tools
 Python, pandas, matplotlib, Google Colab
